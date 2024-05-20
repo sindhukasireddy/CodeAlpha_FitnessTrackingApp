@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f7efef; /* Example background color */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Example shadow */
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--appColor); /* Example color, adjust as needed */
+  }
+  
+  .header-menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .header-menu li {
+    display: inline;
+  }
+  
+  .header-menu a {
+    text-decoration: none;
+    color: #333; /* Example text color */
+    transition: color 0.3s;
+  }
+  
+  .header-menu a:hover,
+  .header-menu a.active {
+    color: var(--appColor); /* Example active color */
+  }
+  
