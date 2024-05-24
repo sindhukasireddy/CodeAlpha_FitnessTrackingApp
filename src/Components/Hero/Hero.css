@@ -11,7 +11,7 @@
   gap: 1rem;
 }
 .right-h {
-  background-color: #f43716;
+  background-color:rgba(80, 148, 85, 0.277);
   flex: 1;
   position: relative;
 }
@@ -27,7 +27,7 @@
   height: 60px;
   right: 30px;
   bottom: 40px;
-  background-color: #25d366;
+  background-color: #306443;
   font-size: 30px;
   padding-top: 11px;
   color: white;
@@ -55,7 +55,7 @@
 }
 .the-best > div {
   position: absolute;
-  background-color: #f44d16;
+  background-color: #d6df2a;
   width: 5.4rem;
   height: 80%;
   left: 8px;
@@ -70,7 +70,7 @@
   text-transform: uppercase;
   font-size: 4.5rem;
   font-weight: bold;
-  color: white;
+  color: rgb(214, 232, 17);
   text-overflow: inherit;
 }
 
@@ -106,7 +106,7 @@
   font-weight: normal !important;
 }
 .hero-btns > :nth-child(1) {
-  color: white;
+  color: rgb(202, 80, 80);
   background-color: var(--orange);
   width: 8rem;
 }

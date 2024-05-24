@@ -3,10 +3,11 @@
     display: flex;
     /* justify-content: spac; */
     gap: 10rem;
+    
 }
 .left-j
 {
-    color:white;
+    color:yellow;
     font-size: 3rem;
     font-weight: bold;
     text-transform: uppercase;
@@ -46,7 +47,7 @@
     color: var(--lightgray)
 }
 .btn-j{
-    background-color: var(--orange);
+    background-color: var(--yellow);
     color: white
 }
 

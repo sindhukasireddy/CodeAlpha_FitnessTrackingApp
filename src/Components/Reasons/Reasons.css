@@ -45,10 +45,10 @@
   }
   .right-r > span {
     font-weight: bold;
-    color: var(--orange);
+    color: yellow;
   }
   .right-r > div {
-    color: white;
+    color: yellow;
     font-size: 3rem;
     font-weight: bold;
   }

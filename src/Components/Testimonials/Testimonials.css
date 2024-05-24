@@ -9,10 +9,10 @@
     gap: 2rem;
     flex-direction: column;
     text-transform: uppercase;
-    color: white;
+    color:yellow;
 }
 .left-t>:nth-child(1){
-    color: var(--orange);
+    color: var(--yellow);
     font-weight: bold;
 }
 .left-t>:nth-child(2),
@@ -42,7 +42,7 @@
 {
     position: absolute;
     width: 17rem;height: 20rem;
-    border: 2px solid orange;
+    border: 2px solid rgb(187, 189, 57);
     background-color: transparent;
     right: 9rem;
     top: 0.9rem;
@@ -53,7 +53,7 @@
     width: 17rem;height: 19rem;
     right: 7rem;
     top: 4rem;
-    background:var(--planCard);
+    background:rgb(219, 219, 11);
 }
 .arrows{
     display: flex;

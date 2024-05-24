@@ -11,7 +11,7 @@ const Contact = () => {
         var plan = document.getElementById("plan").value;
         var message = document.getElementById("message").value;
          
-        var url = "https://wa.me/+918766539293?text="
+        var url = "https://wa.me/+917416411570?text="
         +"*Name :* "+name+"%0a"
         +"*Email :* "+email+"%0a"
         +"*Contact No :* "+phone+"%0a"
@@ -43,7 +43,7 @@ const Contact = () => {
             <span>CONTACT</span>
             <span>US</span>
           </div>
-          <div className="app-contact">CONTACT INFO : +62 81 314 928 595</div>
+          <div className="app-contact">CONTACT INFO : +91 7416411570</div>
         </div>
         <div className="screen-body-item">
           <div className="app-form">
@@ -59,9 +59,7 @@ const Contact = () => {
             <div className="app-form-group">
               <input className="app-form-control" placeholder="Age" id='age'/>
             </div>
-            <div className="app-form-group">
-              <input className="app-form-control" placeholder="Plan" id='plan'/>
-            </div>
+            
             <div classNameName="app-form-group message">
               <input className="app-form-control" placeholder="MESSAGE" id='message'/>
             </div>

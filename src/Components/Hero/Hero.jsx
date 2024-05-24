@@ -34,12 +34,12 @@ const Hero = () => {
             <span>Your</span>
           </div>
           <div>
-            <span>Best</span>
+            <span>Best Self</span>
           </div>
           <div>
             <span>
-              In here we will help you to shape and build your ideal body and
-              live up your life to fullest
+              In here we will help you to achieve your best self and
+              track your fitness
             </span>
           </div>
         </div>
@@ -92,7 +92,7 @@ const Hero = () => {
         >
           <img src={heart} alt="Heart rate icon" />
           <span>Heart Rate</span>
-          <span>116 bpm</span>
+          <span>112 bpm</span>
         </motion.div>
 
         {/* hero images */}
@@ -116,7 +116,7 @@ const Hero = () => {
           <img src={calories} alt="Calories burned icon" />
           <div>
             <span>Calories burned</span>
-            <span>220 kcal</span>
+            <span>230 kcal</span>
           </div>
         </motion.div>
       </div>

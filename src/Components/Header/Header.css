@@ -10,7 +10,7 @@
   .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: var(--appColor); /* Example color, adjust as needed */
+    color: black; /* Example color, adjust as needed */
   }
   
   .header-menu {
@@ -26,11 +26,11 @@
   .header-menu a {
     text-decoration: none;
     color: #333; /* Example text color */
-    transition: color 0.3s;
+    transition: color rgb(27, 143, 201);
   }
   
   .header-menu a:hover,
   .header-menu a.active {
-    color: var(--appColor); /* Example active color */
+    color: rgb(18, 61, 233); /* Example active color */
   }
   

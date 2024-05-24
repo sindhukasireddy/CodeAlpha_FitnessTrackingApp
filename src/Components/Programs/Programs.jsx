@@ -9,7 +9,7 @@ const Programs= () => {
         <div className="programs-header">
             <span className='stroke-text'>Explore Our</span>
             <span>Programs</span>
-            <span className='stroke-text'>to shape you</span>
+            <span className='stroke-text'>to achieve your best self</span>
         </div>
         <div className="programs-categories">
             {programsData.map((program)=>(

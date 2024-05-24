@@ -62,7 +62,7 @@
   
   .screen {
     position: relative;
-    background: var(--planCard);
+    background: rgb(216, 216, 18);
     border-radius: 15px;
   }
   
@@ -83,7 +83,7 @@
     display: flex;
     align-items: center;
     padding: 10px 20px;
-    background: #1f1f20;
+    background: #cbd53f;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
   }
@@ -98,11 +98,11 @@
     height: 8px;
     margin-right: 3px;
     border-radius: 8px;
-    background: white;
+    background: rgb(242, 239, 239);
   }
   
   .screen-header-button.close {
-    background: #ed1c6f;
+    background: #2d432e;
   }
   
   .screen-header-button.maximize {
@@ -122,7 +122,7 @@
     height: 3px;
     margin-left: 2px;
     border-radius: 8px;
-    background: #999;
+    background: #4646a1;
   }
   
   .screen-body {
@@ -221,7 +221,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    color: white;
+    color:yellow;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
     font-weight: normal;
@@ -230,7 +230,7 @@
   .credits-link {
     display: flex;
     align-items: center;
-    color: #fff;
+    color: #ffffff;
     font-weight: bold;
     text-decoration: none;
   }
