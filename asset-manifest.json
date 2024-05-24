@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CodeAlpha_FitnessTrackingApp/static/css/main.3d7dec35.css",
-    "main.js": "/CodeAlpha_FitnessTrackingApp/static/js/main.bfb22312.js",
+    "main.css": "/CodeAlpha_FitnessTrackingApp/static/css/main.ce8a6794.css",
+    "main.js": "/CodeAlpha_FitnessTrackingApp/static/js/main.0403a973.js",
     "static/media/t-image1.png": "/CodeAlpha_FitnessTrackingApp/static/media/t-image1.c16c2c261034cf78ee57.png",
     "static/media/image1.png": "/CodeAlpha_FitnessTrackingApp/static/media/image1.1091417d32e491f0bbb6.png",
     "static/media/image2.png": "/CodeAlpha_FitnessTrackingApp/static/media/image2.82da8b2725df896d8a8e.png",
@@ -12,11 +12,11 @@
     "static/media/t-image2.jpg": "/CodeAlpha_FitnessTrackingApp/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
     "static/media/hero_image_back.png": "/CodeAlpha_FitnessTrackingApp/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/CodeAlpha_FitnessTrackingApp/index.html",
-    "main.3d7dec35.css.map": "/CodeAlpha_FitnessTrackingApp/static/css/main.3d7dec35.css.map",
-    "main.bfb22312.js.map": "/CodeAlpha_FitnessTrackingApp/static/js/main.bfb22312.js.map"
+    "main.ce8a6794.css.map": "/CodeAlpha_FitnessTrackingApp/static/css/main.ce8a6794.css.map",
+    "main.0403a973.js.map": "/CodeAlpha_FitnessTrackingApp/static/js/main.0403a973.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d7dec35.css",
-    "static/js/main.bfb22312.js"
+    "static/css/main.ce8a6794.css",
+    "static/js/main.0403a973.js"
   ]
 }
